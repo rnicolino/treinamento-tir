@@ -1,0 +1,9 @@
+{
+    "Url": "http://localhost:4321",
+    "Browser": "Firefox",
+    "Environment": "ROBO",
+    "Language": "pt-br",
+    "User": "ADMIN",
+    "Password": "1234",
+    "Headless": false
+}
